@@ -6,7 +6,6 @@ build/
 /.idea
 *.class
 *.log
-error.json
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
